@@ -1,4 +1,6 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+index.md
+/docs/data/*
+/docs/layouts/*
+/docs/static/*
+/docs/resources/*
+/docs/public/
