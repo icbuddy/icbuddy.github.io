@@ -1,3 +1,3 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/icbuddy/pynq-z2-ai-easystep)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/icbuddy/icbuddy.github.io)
 
-# pynq-z2-ai-easystep
+# icbuddy.github.io
